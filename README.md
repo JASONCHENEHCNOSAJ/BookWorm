@@ -1,16 +1,6 @@
-# practice_proj
+# BookWorm
 
-A new Flutter project.
+BookWorm is the name of this app. It was thought of through hours of intense brainstorming by the most brilliant members of the group.
+## Overview
+BookWorm is a book organizer app. Users will use it to record and organize their thoughts on books they’ve read or are reading. Taking notes, searching unknown words, and adding books to a personalized library are among the many functionalities BookWorm has to offer. We tie all these functionalities together in an aesthetic and uncomplicated way, ensuring a smooth and enjoyable user experience. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
